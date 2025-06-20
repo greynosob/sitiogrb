@@ -86,7 +86,7 @@ googleAnalytics = "" # Add your identifier. For example UA-99631805-1.
     enable = true
     hero__title = "Gabriela Reynoso"
     hero__description = "Hi, I'm Gabriela Reynoso a Senior Software Engineer"
-    hero__image = ""
+    hero__image = "/images/frontpage.png"
 
 
     #-------------------------------
@@ -120,6 +120,11 @@ googleAnalytics = "" # Add your identifier. For example UA-99631805-1.
     mailchimp__input__text = "Your email address..."
     mailchimp__button__text = "Subscribe" # Add your button text
 
+#-------------------------------
+  # Show hero image
+  [params.hero_showimage]
+    enable = true
+    
 
   #-------------------------------
   # Work Settings

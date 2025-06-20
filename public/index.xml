@@ -6,8 +6,22 @@
     <description>Recent content on Gabriela Reynoso - Professional Portfolio</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 Oct 2022 15:01:35 +0300</lastBuildDate>
+    <lastBuildDate>Tue, 01 Oct 2024 10:58:57 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Migration from Alfresco To SAAS .Net Application</title>
+      <link>http://localhost:1313/works/alfresco-to-net-migration/</link>
+      <pubDate>Tue, 01 Oct 2024 10:58:57 +0000</pubDate>
+      <guid>http://localhost:1313/works/alfresco-to-net-migration/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Led the migration&lt;/strong&gt; of approximately &lt;strong&gt;200 Alfresco sites&lt;/strong&gt; from &lt;strong&gt;AWS EC2&lt;/strong&gt; to a modern &lt;strong&gt;.NET SaaS system&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Worked within a &lt;strong&gt;Java Spring&lt;/strong&gt; environment, managing a &lt;strong&gt;MySQL database&lt;/strong&gt; and utilizing &lt;strong&gt;Python scripts&lt;/strong&gt; for automation.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Received initial training from the previous team, then &lt;strong&gt;customized scripts&lt;/strong&gt; and &lt;strong&gt;analyzed source code&lt;/strong&gt; to ensure smooth data transfer.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Collaborated closely with IT teams to handle data transfer and validation, navigating challenges such as &lt;strong&gt;license expiration constraints&lt;/strong&gt; and &lt;strong&gt;system update risks&lt;/strong&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MFA Security development for Alfresco sites</title>
+      <link>http://localhost:1313/works/mfa-on-alfresco-sites/</link>
+      <pubDate>Sun, 01 Oct 2023 10:58:57 +0000</pubDate>
+      <guid>http://localhost:1313/works/mfa-on-alfresco-sites/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;Developed multi-factor authentication (MFA) across approximately &lt;strong&gt;200 sites&lt;/strong&gt; in a &lt;strong&gt;Java Spring&lt;/strong&gt; environment hosted on &lt;strong&gt;AWS EC2 Linux&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;li&gt;Utilized &lt;strong&gt;Linux commands&lt;/strong&gt; and &lt;strong&gt;Python scripts&lt;/strong&gt; to implement secure and efficient MFA solutions.&lt;/li&gt;&#xA;&lt;li&gt;Conducted thorough &lt;strong&gt;source code analysis&lt;/strong&gt; to minimize impact on a fragile and complex system.&lt;/li&gt;&#xA;&lt;li&gt;Created &lt;strong&gt;two customized versions&lt;/strong&gt; to accommodate different site versions, ensuring broad compatibility and smooth deployment.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
     <item>
       <title>That which does not kill us makes us stronger</title>
       <link>http://localhost:1313/posts/that-which-does-not-kill-us-makes-us-stronger/</link>
@@ -51,6 +65,13 @@
       <description>&lt;p&gt;Hymnals are books with collections of musical hymns that can typically be found in churches. Prayerbooks or missals are books that contain written prayers and are commonly carried by monks, nuns, and other devoted followers or clergy. Lap books are a learning tool created by students.&lt;/p&gt;&#xA;&lt;p&gt;There are several other types of books which are not commonly found under this system. Albums are books for holding a group of items belonging to a particular theme, such as a set of photographs, card collections, and memorabilia. One common example is stamp albums, which are used by many hobbyists to protect and organize their collections of postage stamps. Such albums are often made using removable plastic pages held inside in a ringed binder or other similar holder. Picture books are books for children with pictures on every page and less text (or even no text).&lt;/p&gt;</description>
     </item>
     <item>
+      <title>MFA Security development for .NET sites</title>
+      <link>http://localhost:1313/works/mfa-on-net-sites/</link>
+      <pubDate>Wed, 01 Jun 2022 10:58:57 +0000</pubDate>
+      <guid>http://localhost:1313/works/mfa-on-net-sites/</guid>
+      <description>&lt;p&gt;Implemented &lt;strong&gt;Multi-Factor Authentication (MFA)&lt;/strong&gt; compatible with:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Google Authenticator&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Microsoft Authenticator&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;DUO&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Researched and generated &lt;strong&gt;QR codes&lt;/strong&gt; to enable secure user two-step verification.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Analyzed and integrated &lt;strong&gt;.NET backend code&lt;/strong&gt; with a &lt;strong&gt;Vue.js frontend&lt;/strong&gt; for seamless authentication experience.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
       <title>Everything has beauty, but not everyone can see</title>
       <link>http://localhost:1313/posts/everything-has-beauty-but-not-everyone-can-see/</link>
       <pubDate>Sun, 29 May 2022 18:05:55 +0300</pubDate>
@@ -58,18 +79,11 @@
       <description>&lt;p&gt;Hymnals are books with collections of musical hymns that can typically be found in churches. Prayerbooks or missals are books that contain written prayers and are commonly carried by monks, nuns, and other devoted followers or clergy. Lap books are a learning tool created by students.&lt;/p&gt;&#xA;&lt;p&gt;There are several other types of books which are not commonly found under this system. Albums are books for holding a group of items belonging to a particular theme, such as a set of photographs, card collections, and memorabilia. One common example is stamp albums, which are used by many hobbyists to protect and organize their collections of postage stamps. Such albums are often made using removable plastic pages held inside in a ringed binder or other similar holder. Picture books are books for children with pictures on every page and less text (or even no text).&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Music love fest</title>
-      <link>http://localhost:1313/works/music-love-fest/</link>
-      <pubDate>Mon, 10 Jan 2022 08:01:35 +0300</pubDate>
-      <guid>http://localhost:1313/works/music-love-fest/</guid>
-      <description>&lt;p&gt;Hardcover books have a stiff binding. Paperback books have cheaper, flexible covers which tend to be less durable. An alternative to paperback is the glossy cover, otherwise known as a dust cover, found on magazines, and comic books. Spiral-bound books are bound by spirals made of metal or plastic. Examples of spiral-bound books include teachers&amp;rsquo; manuals and puzzle books (crosswords, sudoku).&lt;/p&gt;&#xA;&lt;div class=&#34;gallery-box&#34;&gt;&#xA;  &lt;div class=&#34;gallery&#34;&gt;&#xA;    &lt;img src=&#34;https://via.placeholder.com/1200x800&#34; loading=&#34;lazy&#34; alt=&#34;Project&#34;&gt;&#xA;    &lt;img src=&#34;https://via.placeholder.com/1200x800&#34; loading=&#34;lazy&#34; alt=&#34;Project&#34;&gt;&#xA;  &lt;/div&gt;&#xA;  &lt;em&gt;Photo by &lt;a href=&#34;https://via.placeholder.com/1200x800&#34; target=&#34;_blank&#34;&gt;Freepik&lt;/a&gt;&lt;/em&gt;&#xA;&lt;/div&gt;&#xA;&lt;p&gt;There are several other types of books which are not commonly found under this system. Albums are books for holding a group of items belonging to a particular theme, such as a set of photographs, card collections, and memorabilia. One common example is stamp albums, which are used by many hobbyists to protect and organize their collections of postage stamps. Such albums are often made using removable plastic pages held inside in a ringed binder or other similar holder. Picture books are books for children with pictures on every page and less text (or even no text).&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Festival of colors</title>
-      <link>http://localhost:1313/works/festival-of-colors/</link>
-      <pubDate>Thu, 06 Jan 2022 08:01:35 +0300</pubDate>
-      <guid>http://localhost:1313/works/festival-of-colors/</guid>
-      <description>&lt;p&gt;Hardcover books have a stiff binding. Paperback books have cheaper, flexible covers which tend to be less durable. An alternative to paperback is the glossy cover, otherwise known as a dust cover, found on magazines, and comic books. Spiral-bound books are bound by spirals made of metal or plastic. Examples of spiral-bound books include teachers&amp;rsquo; manuals and puzzle books (crosswords, sudoku).&lt;/p&gt;&#xA;&lt;div class=&#34;gallery-box&#34;&gt;&#xA;  &lt;div class=&#34;gallery&#34;&gt;&#xA;    &lt;img src=&#34;https://via.placeholder.com/1200x800&#34; loading=&#34;lazy&#34; alt=&#34;Project&#34;&gt;&#xA;    &lt;img src=&#34;https://via.placeholder.com/1200x800&#34; loading=&#34;lazy&#34; alt=&#34;Project&#34;&gt;&#xA;  &lt;/div&gt;&#xA;  &lt;em&gt;Photo by &lt;a href=&#34;https://via.placeholder.com/1200x800&#34; target=&#34;_blank&#34;&gt;Freepik&lt;/a&gt;&lt;/em&gt;&#xA;&lt;/div&gt;&#xA;&lt;p&gt;There are several other types of books which are not commonly found under this system. Albums are books for holding a group of items belonging to a particular theme, such as a set of photographs, card collections, and memorabilia. One common example is stamp albums, which are used by many hobbyists to protect and organize their collections of postage stamps. Such albums are often made using removable plastic pages held inside in a ringed binder or other similar holder. Picture books are books for children with pictures on every page and less text (or even no text).&lt;/p&gt;</description>
+      <title>DigitalMail Site</title>
+      <link>http://localhost:1313/works/digitalmail/</link>
+      <pubDate>Sat, 01 Jan 2022 10:58:57 +0000</pubDate>
+      <guid>http://localhost:1313/works/digitalmail/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;Developed a new project using &lt;strong&gt;Node.js&lt;/strong&gt; and &lt;strong&gt;.NET&lt;/strong&gt;, integrating with a SaaS base system through &lt;strong&gt;APIs&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;li&gt;Enhanced the initial development to deliver a &lt;strong&gt;Minimal Viable Product (MVP)&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;li&gt;Managed the project effectively using &lt;strong&gt;Jira&lt;/strong&gt; for task tracking and issue management.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Remember that happiness is a way of travel, not a destination</title>

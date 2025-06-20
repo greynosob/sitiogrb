@@ -27,8 +27,11 @@
           <p class="page-description">{{ .Params.description }}</p>
           {{ end }}
           <ul class="work-meta list-reset">
-            {{ if .Params.description }}
+            <!-- {{ if .Params.Date }}
             <li class="work-meta__item"><strong>Date:</strong> <span>{{ .Date.Format "2 Jan, 2006" }}</span></li>
+            {{ end }} -->
+            {{ if .Params.YearRange }}
+            <li class="work-meta__item"><strong>Years:</strong> <span>{{ .Params.yearrange }}</span></li>
             {{ end }}
             {{ if .Params.client }}
             <li class="work-meta__item"><strong>Client:</strong> <span>{{ .Params.client }}</span></li>

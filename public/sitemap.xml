@@ -59,15 +59,6 @@
     <loc>http://localhost:1313/tags/fashion/</loc>
     <lastmod>2022-05-29T18:05:55+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/works/music-love-fest/</loc>
-    <lastmod>2022-01-10T08:01:35+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/works/</loc>
-    <lastmod>2022-01-10T08:01:35+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/works/festival-of-colors/</loc>
-    <lastmod>2022-01-06T08:01:35+03:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/posts/remember-that-happiness-is-a-way-of-travel-not-a-destination/</loc>
     <lastmod>2020-04-24T15:01:35+03:00</lastmod>
   </url><url>
@@ -78,5 +69,11 @@
     <loc>http://localhost:1313/contact/</loc>
   </url><url>
     <loc>http://localhost:1313/elements/</loc>
+  </url><url>
+    <loc>http://localhost:1313/works/mfa-on-net-sites/</loc>
+  </url><url>
+    <loc>http://localhost:1313/works/alfresco-to-net-migration/</loc>
+  </url><url>
+    <loc>http://localhost:1313/works/</loc>
   </url>
 </urlset>

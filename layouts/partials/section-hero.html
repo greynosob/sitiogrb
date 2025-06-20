@@ -28,7 +28,8 @@
           {{ end }}
         </div>
       </div>
-
+      
+      {{ if .Site.Params.hero_showimage.enable }}
       <div class="col col-5 col-d-12">
         <div class="hero__right">
           <div class="hero__image">
@@ -37,7 +38,7 @@
           </div>
         </div>
       </div>
-
+     {{ end }}
     </div>
   </div>
 </section>
