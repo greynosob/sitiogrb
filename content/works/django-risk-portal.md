@@ -1,5 +1,5 @@
 ---
-title: DJANGO RISK PORTAL
+title: Django risk portal
 description:  Creation of a portal with access control using the DJANGO tool and Python graphics.
 category: Development
 yearrange: 2021

@@ -86,7 +86,7 @@
       <description>&lt;ul&gt;&#xA;&lt;li&gt;Developed a new project using &lt;strong&gt;Node.js&lt;/strong&gt; and &lt;strong&gt;.NET&lt;/strong&gt;, integrating with a SaaS base system through &lt;strong&gt;APIs&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;li&gt;Enhanced the initial development to deliver a &lt;strong&gt;Minimal Viable Product (MVP)&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;li&gt;Managed the project effectively using &lt;strong&gt;Jira&lt;/strong&gt; for task tracking and issue management.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
-      <title>DJANGO RISK PORTAL</title>
+      <title>Django risk portal</title>
       <link>http://localhost:1313/works/django-risk-portal/</link>
       <pubDate>Tue, 01 Jun 2021 10:58:57 +0000</pubDate>
       <guid>http://localhost:1313/works/django-risk-portal/</guid>
@@ -112,6 +112,13 @@
       <pubDate>Fri, 01 Jun 2018 10:58:57 +0000</pubDate>
       <guid>http://localhost:1313/works/commissions-module/</guid>
       <description>&lt;ul&gt;&#xA;&lt;li&gt;Unified commission recovery processes for &lt;strong&gt;passive accounts&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;li&gt;Implemented a &lt;strong&gt;daytime fee recovery process&lt;/strong&gt;, eliminating the wait for nightly processing.&lt;/li&gt;&#xA;&lt;li&gt;Optimized the &lt;strong&gt;nighttime commission collection&lt;/strong&gt; by running multiple instances simultaneously.&lt;/li&gt;&#xA;&lt;li&gt;Increased commission income by &lt;strong&gt;detecting credit operations&lt;/strong&gt; and applying pending collections promptly.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Recognized in 2015&lt;/strong&gt; for &lt;em&gt;&amp;ldquo;Development of solutions to increase fee income&amp;rdquo;&lt;/em&gt;.&lt;/li&gt;&#xA;&lt;li&gt;Served as the &lt;strong&gt;foundation for products&lt;/strong&gt; that reintegrate commissions based on marketing policies.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Library to optimize development time</title>
+      <link>http://localhost:1313/works/common-dev-library/</link>
+      <pubDate>Fri, 01 Jun 2012 10:58:57 +0000</pubDate>
+      <guid>http://localhost:1313/works/common-dev-library/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;Analyzed and encapsulated common logic used in maintenance and listing screens into a reusable c++ &lt;strong&gt;library&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;li&gt;Reduced screen development time from &lt;strong&gt;one week to just three simple screens in one day&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;li&gt;Minimized risk of errors and enhanced agility in debugging by reducing the number of &lt;strong&gt;debug points&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>About</title>
