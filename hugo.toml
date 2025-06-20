@@ -1,6 +1,6 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'Gabriela Reynoso - Professional Portfolio'
+title = 'Gabriela Reynoso - Portfolio'
 googleAnalytics = "" # Add your identifier. For example UA-99631805-1.
 
 #-------------------------------
@@ -40,7 +40,7 @@ googleAnalytics = "" # Add your identifier. For example UA-99631805-1.
     weight = 3
 
   [[menu.main]]
-    name = "Writing"
+    name = "Articles"
     url = "/posts/"
     weight = 4
 
@@ -49,19 +49,7 @@ googleAnalytics = "" # Add your identifier. For example UA-99631805-1.
     weight = 5
     hasChildren = true
 
-  [[menu.main]]
-    parent = "Pages"
-    name = "Contact"
-    url = "/contact/"
-    weight = 1
-
-  [[menu.main]]
-    parent = "Pages"
-    name = "Elements"
-    url = "/elements/"
-    weight = 2
-
-
+  
   #-------------------------------
   # Author Settings
   [params.author]
@@ -153,7 +141,7 @@ googleAnalytics = "" # Add your identifier. For example UA-99631805-1.
   # Blog Section
   [params.blog]
     enable = true
-    blog__title = "Writing"
+    blog__title = "Articles"
     blog__description = ""
 
 

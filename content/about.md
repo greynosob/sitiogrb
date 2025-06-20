@@ -4,20 +4,28 @@ description: Senior Software Engineer with over 15 years of experience in softwa
 image: ''
 image_caption: ''
 ---
+# 💼 My Expertise Includes:
 
-My expertise includes:
+- 🔧 **Backend Technologies:** .NET, Java, and SQL Server  
+- ☁️ **Cloud Technologies:** AWS  
+- 💻 **Front-end Basics:** Vue.js, Node.js, and JavaScript  
+- 🔄 **Version Control:** GitHub, collaborating effectively in teams  
+- 🌍 **Remote Work:** Nearly 4 years of experience working remotely with international teams in English  
 
-- .NET, Java, and SQL Server
-- Cloud technologies like AWS
-- A little front end with vue, node.js and javascript
-- Version control tools such as GitHub, working effectively in teams
+---
+- 🌐 **Languages:**  
+  - Native Spanish speaker 🇪🇸  
+  - Professional proficiency in American English 🇺🇸  
+  - Conversational Portuguese 🇵🇹  
+  - Basic knowledge of Japanese 🇯🇵 (currently learning)   
 
-I have been working remotely for nearly 4 years, interacting in English with international teams.
+---
 
-I have learned to leverage artificial intelligence to optimize my work and bridge gaps in front-end technologies like TypeScript and JavaScript.
+- 🤖 Leveraging **Artificial Intelligence** to optimize workflows and bridge gaps in front-end technologies like TypeScript and JavaScript.  
 
-I possess extensive experience with agile methodologies and a deep understanding of the software development lifecycle.
+- ⚡ Extensive experience with **Agile methodologies** and a deep understanding of the **software development lifecycle**.  
 
-I stay up-to-date through continuous learning, committed to excellence, and always seeking to make significant improvements in every project.
+- 📚 Committed to **continuous learning**, striving for excellence, and always seeking to make significant improvements in every project.  
+
 
 
