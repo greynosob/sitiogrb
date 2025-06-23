@@ -53,9 +53,8 @@ jobs:
           HUGO_CACHEDIR: ${{ runner.temp }}/hugo_cache
           HUGO_ENVIRONMENT: production
         run: |
-          hugo \
-            --minify \
-            --baseURL "https://greynosob.github.io/sitiogrb/"
+          hugo --minify --baseURL "https://greynosob.github.io/sitiogrb/"
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
