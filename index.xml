@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gabriela Reynoso - Portfolio</title>
+    <link>https://example.org/</link>
+    <description>Recent content on Gabriela Reynoso - Portfolio</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 17 Jun 2025 15:01:35 +0300</lastBuildDate>
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reflections and Learnings in my professional journey</title>
+      <link>https://example.org/posts/reflections-learnings-2025/</link>
+      <pubDate>Tue, 17 Jun 2025 15:01:35 +0300</pubDate>
+      <guid>https://example.org/posts/reflections-learnings-2025/</guid>
+      <description>&lt;h1 id=&#34;reflections-and-learnings-in-my-professional-journey-&#34;&gt;Reflections and Learnings in My Professional Journey ✨&lt;/h1&gt;&#xA;&lt;p&gt;For nearly &lt;strong&gt;12 years&lt;/strong&gt; 🗓️, I had the privilege of working at a bank 🏦 where I developed fundamental skills that shaped my professional path. There, I learned the importance of &lt;strong&gt;teamwork&lt;/strong&gt; 🤝 and the ability to &lt;strong&gt;adapt to new project management methodologies&lt;/strong&gt; 🔄. Every day brought new challenges 💪, allowing me to hone my skills in &lt;strong&gt;team management&lt;/strong&gt; 👥 and &lt;strong&gt;task prioritization&lt;/strong&gt; ✅.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>You Shall Not Pass &#39;Professional Data Engineer&#39;</title>
+      <link>https://example.org/posts/shall-not-pass-2025/</link>
+      <pubDate>Fri, 13 Jun 2025 15:01:35 +0300</pubDate>
+      <guid>https://example.org/posts/shall-not-pass-2025/</guid>
+      <description>&lt;h1 id=&#34;--&#34;&gt;🧙‍♂️✨ &lt;em&gt;&amp;ldquo;You Shall Not Pass &amp;lsquo;Professional Data Engineer&amp;rsquo;&amp;rdquo;&lt;/em&gt; 🧙‍♀️✨&lt;/h1&gt;&#xA;&lt;p&gt;This year, I embarked on an exciting adventure learning new technologies for &lt;strong&gt;massive data management&lt;/strong&gt; in &lt;strong&gt;serverless environments&lt;/strong&gt;, utilizing Google&amp;rsquo;s powerful tools like &lt;strong&gt;BigQuery&lt;/strong&gt;, &lt;strong&gt;Dataproc&lt;/strong&gt;, and &lt;strong&gt;Dataflow&lt;/strong&gt;, among others.&lt;/p&gt;&#xA;&lt;p&gt;Over the course of &lt;strong&gt;7 weeks&lt;/strong&gt;, I received comprehensive training and participated in hands-on labs that fully immersed me in these cutting-edge technologies.&lt;/p&gt;&#xA;&lt;p&gt;I enjoyed every part of the process — from discovering solutions for data challenges completely different from my past experiences, to learning new and complex concepts. I dedicated entire afternoons to:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Migration from Alfresco To SAAS .Net Application</title>
+      <link>https://example.org/works/alfresco-to-net-migration/</link>
+      <pubDate>Tue, 01 Oct 2024 10:58:57 +0000</pubDate>
+      <guid>https://example.org/works/alfresco-to-net-migration/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Led the migration&lt;/strong&gt; of approximately &lt;strong&gt;200 Alfresco sites&lt;/strong&gt; from &lt;strong&gt;AWS EC2&lt;/strong&gt; to a modern &lt;strong&gt;.NET SaaS system&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Worked within a &lt;strong&gt;Java Spring&lt;/strong&gt; environment, managing a &lt;strong&gt;MySQL database&lt;/strong&gt; and utilizing &lt;strong&gt;Python scripts&lt;/strong&gt; for automation.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Received initial training from the previous team, then &lt;strong&gt;customized scripts&lt;/strong&gt; and &lt;strong&gt;analyzed source code&lt;/strong&gt; to ensure smooth data transfer.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Collaborated closely with IT teams to handle data transfer and validation, navigating challenges such as &lt;strong&gt;license expiration constraints&lt;/strong&gt; and &lt;strong&gt;system update risks&lt;/strong&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MFA Security development for Alfresco sites</title>
+      <link>https://example.org/works/mfa-on-alfresco-sites/</link>
+      <pubDate>Sun, 01 Oct 2023 10:58:57 +0000</pubDate>
+      <guid>https://example.org/works/mfa-on-alfresco-sites/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;Developed multi-factor authentication (MFA) across approximately &lt;strong&gt;200 sites&lt;/strong&gt; in a &lt;strong&gt;Java Spring&lt;/strong&gt; environment hosted on &lt;strong&gt;AWS EC2 Linux&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;li&gt;Utilized &lt;strong&gt;Linux commands&lt;/strong&gt; and &lt;strong&gt;Python scripts&lt;/strong&gt; to implement secure and efficient MFA solutions.&lt;/li&gt;&#xA;&lt;li&gt;Conducted thorough &lt;strong&gt;source code analysis&lt;/strong&gt; to minimize impact on a fragile and complex system.&lt;/li&gt;&#xA;&lt;li&gt;Created &lt;strong&gt;two customized versions&lt;/strong&gt; to accommodate different site versions, ensuring broad compatibility and smooth deployment.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>MFA Security development for .NET sites</title>
+      <link>https://example.org/works/mfa-on-net-sites/</link>
+      <pubDate>Wed, 01 Jun 2022 10:58:57 +0000</pubDate>
+      <guid>https://example.org/works/mfa-on-net-sites/</guid>
+      <description>&lt;p&gt;Implemented &lt;strong&gt;Multi-Factor Authentication (MFA)&lt;/strong&gt; compatible with:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Google Authenticator&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Microsoft Authenticator&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;DUO&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Researched and generated &lt;strong&gt;QR codes&lt;/strong&gt; to enable secure user two-step verification.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Analyzed and integrated &lt;strong&gt;.NET backend code&lt;/strong&gt; with a &lt;strong&gt;Vue.js frontend&lt;/strong&gt; for seamless authentication experience.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>DigitalMail Site</title>
+      <link>https://example.org/works/digitalmail/</link>
+      <pubDate>Sat, 01 Jan 2022 10:58:57 +0000</pubDate>
+      <guid>https://example.org/works/digitalmail/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;Developed a new project using &lt;strong&gt;Node.js&lt;/strong&gt; and &lt;strong&gt;.NET&lt;/strong&gt;, integrating with a SaaS base system through &lt;strong&gt;APIs&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;li&gt;Enhanced the initial development to deliver a &lt;strong&gt;Minimal Viable Product (MVP)&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;li&gt;Managed the project effectively using &lt;strong&gt;Jira&lt;/strong&gt; for task tracking and issue management.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Django risk portal</title>
+      <link>https://example.org/works/django-risk-portal/</link>
+      <pubDate>Tue, 01 Jun 2021 10:58:57 +0000</pubDate>
+      <guid>https://example.org/works/django-risk-portal/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;Created a &lt;strong&gt;portal with access control&lt;/strong&gt; using &lt;strong&gt;Django&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;li&gt;Developed &lt;strong&gt;interactive Python-generated graphics&lt;/strong&gt; and &lt;strong&gt;maintenance screens&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;li&gt;Implemented &lt;strong&gt;reporting features&lt;/strong&gt; with on-screen filters and CSV export functionality.&lt;/li&gt;&#xA;&lt;li&gt;Integrated &lt;strong&gt;robot alerts via SMS&lt;/strong&gt; using &lt;strong&gt;Twilio&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;li&gt;Built &lt;strong&gt;checkpoint validation robots&lt;/strong&gt; leveraging &lt;strong&gt;SQL&lt;/strong&gt; and &lt;strong&gt;Integration Services&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;li&gt;Managed robot &lt;strong&gt;schedules and wait times&lt;/strong&gt; effectively.&lt;/li&gt;&#xA;&lt;li&gt;Coordinated &lt;strong&gt;remote installation&lt;/strong&gt; using &lt;strong&gt;GitHub&lt;/strong&gt; and &lt;strong&gt;Docker&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;li&gt;Collaborated efficiently through &lt;strong&gt;remote teamwork&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Automatic FEE Collection</title>
+      <link>https://example.org/works/automatic-fee-collection/</link>
+      <pubDate>Mon, 01 Jun 2020 10:58:57 +0000</pubDate>
+      <guid>https://example.org/works/automatic-fee-collection/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;Managed &lt;strong&gt;online credit movements&lt;/strong&gt; for the payment of overdue portfolios.&lt;/li&gt;&#xA;&lt;li&gt;Designed, developed, and coordinated &lt;strong&gt;crediting processes&lt;/strong&gt; to secondary systems.&lt;/li&gt;&#xA;&lt;li&gt;Created and implemented &lt;strong&gt;recurring processes&lt;/strong&gt; for portfolio collections.&lt;/li&gt;&#xA;&lt;li&gt;Developed a &lt;strong&gt;massive collection process&lt;/strong&gt; to initiate collections at the start of operations.&lt;/li&gt;&#xA;&lt;li&gt;Recognized as a &lt;strong&gt;successful revenue generation project&lt;/strong&gt;, effectively replacing the debit method of the original portfolio systems.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Commission Module</title>
+      <link>https://example.org/works/commissions-module/</link>
+      <pubDate>Fri, 01 Jun 2018 10:58:57 +0000</pubDate>
+      <guid>https://example.org/works/commissions-module/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;Unified commission recovery processes for &lt;strong&gt;passive accounts&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;li&gt;Implemented a &lt;strong&gt;daytime fee recovery process&lt;/strong&gt;, eliminating the wait for nightly processing.&lt;/li&gt;&#xA;&lt;li&gt;Optimized the &lt;strong&gt;nighttime commission collection&lt;/strong&gt; by running multiple instances simultaneously.&lt;/li&gt;&#xA;&lt;li&gt;Increased commission income by &lt;strong&gt;detecting credit operations&lt;/strong&gt; and applying pending collections promptly.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Recognized in 2015&lt;/strong&gt; for &lt;em&gt;&amp;ldquo;Development of solutions to increase fee income&amp;rdquo;&lt;/em&gt;.&lt;/li&gt;&#xA;&lt;li&gt;Served as the &lt;strong&gt;foundation for products&lt;/strong&gt; that reintegrate commissions based on marketing policies.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Library to optimize development time</title>
+      <link>https://example.org/works/common-dev-library/</link>
+      <pubDate>Fri, 01 Jun 2012 10:58:57 +0000</pubDate>
+      <guid>https://example.org/works/common-dev-library/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;Analyzed and encapsulated common logic used in maintenance and listing screens into a reusable c++ &lt;strong&gt;library&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;li&gt;Reduced screen development time from &lt;strong&gt;one week to just three simple screens in one day&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;li&gt;Minimized risk of errors and enhanced agility in debugging by reducing the number of &lt;strong&gt;debug points&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>https://example.org/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.org/about/</guid>
+      <description>&lt;h1 id=&#34;-my-expertise-includes&#34;&gt;💼 My Expertise Includes:&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;🔧 &lt;strong&gt;Backend Technologies:&lt;/strong&gt; .NET, Java, and SQL Server&lt;/li&gt;&#xA;&lt;li&gt;☁️ &lt;strong&gt;Cloud Technologies:&lt;/strong&gt; AWS&lt;/li&gt;&#xA;&lt;li&gt;💻 &lt;strong&gt;Front-end Basics:&lt;/strong&gt; Vue.js, Node.js, and JavaScript&lt;/li&gt;&#xA;&lt;li&gt;🔄 &lt;strong&gt;Version Control:&lt;/strong&gt; GitHub, collaborating effectively in teams&lt;/li&gt;&#xA;&lt;li&gt;🌍 &lt;strong&gt;Remote Work:&lt;/strong&gt; Nearly 4 years of experience working remotely with international teams in English&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;🌐 &lt;strong&gt;Languages:&lt;/strong&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Native Spanish speaker 🇪🇸&lt;/li&gt;&#xA;&lt;li&gt;Professional proficiency in American English 🇺🇸&lt;/li&gt;&#xA;&lt;li&gt;Conversational Portuguese 🇵🇹&lt;/li&gt;&#xA;&lt;li&gt;Basic knowledge of Japanese 🇯🇵 (currently learning)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;🤖 Leveraging &lt;strong&gt;Artificial Intelligence&lt;/strong&gt; to optimize workflows and bridge gaps in front-end technologies like TypeScript and JavaScript.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>https://example.org/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.org/contact/</guid>
+      <description>&lt;p&gt;Akio comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
