@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Articles on Gabriela Reynoso - Portfolio</title>
-    <link>https://example.org/posts/</link>
+    <link>https://greynosob.github.io/sitiogrb/posts/</link>
     <description>Recent content in Articles on Gabriela Reynoso - Portfolio</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 17 Jun 2025 15:01:35 +0300</lastBuildDate>
-    <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://greynosob.github.io/sitiogrb/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Reflections and Learnings in my professional journey</title>
-      <link>https://example.org/posts/reflections-learnings-2025/</link>
+      <link>https://greynosob.github.io/sitiogrb/posts/reflections-learnings-2025/</link>
       <pubDate>Tue, 17 Jun 2025 15:01:35 +0300</pubDate>
-      <guid>https://example.org/posts/reflections-learnings-2025/</guid>
+      <guid>https://greynosob.github.io/sitiogrb/posts/reflections-learnings-2025/</guid>
       <description>&lt;h1 id=&#34;reflections-and-learnings-in-my-professional-journey-&#34;&gt;Reflections and Learnings in My Professional Journey ✨&lt;/h1&gt;&#xA;&lt;p&gt;For nearly &lt;strong&gt;12 years&lt;/strong&gt; 🗓️, I had the privilege of working at a bank 🏦 where I developed fundamental skills that shaped my professional path. There, I learned the importance of &lt;strong&gt;teamwork&lt;/strong&gt; 🤝 and the ability to &lt;strong&gt;adapt to new project management methodologies&lt;/strong&gt; 🔄. Every day brought new challenges 💪, allowing me to hone my skills in &lt;strong&gt;team management&lt;/strong&gt; 👥 and &lt;strong&gt;task prioritization&lt;/strong&gt; ✅.&lt;/p&gt;</description>
     </item>
     <item>
       <title>You Shall Not Pass &#39;Professional Data Engineer&#39;</title>
-      <link>https://example.org/posts/shall-not-pass-2025/</link>
+      <link>https://greynosob.github.io/sitiogrb/posts/shall-not-pass-2025/</link>
       <pubDate>Fri, 13 Jun 2025 15:01:35 +0300</pubDate>
-      <guid>https://example.org/posts/shall-not-pass-2025/</guid>
+      <guid>https://greynosob.github.io/sitiogrb/posts/shall-not-pass-2025/</guid>
       <description>&lt;h1 id=&#34;--&#34;&gt;🧙‍♂️✨ &lt;em&gt;&amp;ldquo;You Shall Not Pass &amp;lsquo;Professional Data Engineer&amp;rsquo;&amp;rdquo;&lt;/em&gt; 🧙‍♀️✨&lt;/h1&gt;&#xA;&lt;p&gt;This year, I embarked on an exciting adventure learning new technologies for &lt;strong&gt;massive data management&lt;/strong&gt; in &lt;strong&gt;serverless environments&lt;/strong&gt;, utilizing Google&amp;rsquo;s powerful tools like &lt;strong&gt;BigQuery&lt;/strong&gt;, &lt;strong&gt;Dataproc&lt;/strong&gt;, and &lt;strong&gt;Dataflow&lt;/strong&gt;, among others.&lt;/p&gt;&#xA;&lt;p&gt;Over the course of &lt;strong&gt;7 weeks&lt;/strong&gt;, I received comprehensive training and participated in hands-on labs that fully immersed me in these cutting-edge technologies.&lt;/p&gt;&#xA;&lt;p&gt;I enjoyed every part of the process — from discovering solutions for data challenges completely different from my past experiences, to learning new and complex concepts. I dedicated entire afternoons to:&lt;/p&gt;</description>
     </item>
   </channel>
