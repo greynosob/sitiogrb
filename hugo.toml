@@ -31,17 +31,17 @@ googleAnalytics = "" # Add your identifier. For example UA-99631805-1.
 
   [[menu.main]]
     name = "About"
-    url = "/about/"
+    url = "about/"
     weight = 2
 
   [[menu.main]]
     name = "Work"
-    url = "/works/"
+    url = "works/"
     weight = 3
 
   [[menu.main]]
     name = "Articles"
-    url = "/posts/"
+    url = "posts/"
     weight = 4
 
   [[menu.main]]
