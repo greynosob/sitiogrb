@@ -16,7 +16,7 @@ googleAnalytics = "" # Add your identifier. For example UA-99631805-1.
 
 
 [params]
-  logo = "" # You can add own logo. For example "/images/logo.png".
+  logo = "" # You can add own logo. For example "images/logo.png".
   description = "Creative Portfolio Theme for Hugo"
   color_scheme = "auto" # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
 
@@ -55,7 +55,7 @@ googleAnalytics = "" # Add your identifier. For example UA-99631805-1.
   [params.author]
     author__name = "Gabriela Reynoso"
     author__bio = "Senior Software Engineer. "
-    author__avatar = "/images/mypicture.jpg"
+    author__avatar = "images/mypicture.jpg"
 
   # Social Links
   [[params.social]]
@@ -74,7 +74,7 @@ googleAnalytics = "" # Add your identifier. For example UA-99631805-1.
     enable = true
     hero__title = "Gabriela Reynoso"
     hero__description = "Hi, I'm Gabriela Reynoso a Senior Software Engineer"
-    hero__image = "/images/frontpage.png"
+    hero__image = "images/frontpage.png"
 
 
     #-------------------------------
@@ -86,17 +86,17 @@ googleAnalytics = "" # Add your identifier. For example UA-99631805-1.
     [[params.logo_item]]
       name = "Banco GyT Continental"
       link = "https://www.gtc.com.gt/"
-      image = "/images/gyt-logo.png"
+      image = "images/gyt-logo.png"
 
     [[params.logo_item]]
       name = "dXLatam"
       link = "https://www.dxlatam.com/"
-      image = "/images/logo-dxlatam.png"
+      image = "images/logo-dxlatam.png"
 
     [[params.logo_item]]
       name = "Allied Global Technollogy Services"
       link = "https://alliedglobal.com/"
-      image = "/images/Allied-Global-logo.png"
+      image = "images/Allied-Global-logo.png"
 
 
 
