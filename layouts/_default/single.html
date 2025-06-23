@@ -7,7 +7,7 @@
     <div class="post-info">
       <div class="post-tags">
         {{ range ($.GetTerms "tags") }}
-          <a href="{{ .Permalink }}" class="post-tag">{{ .LinkTitle }}</a>
+          <a href="{{ .Permalink | relURL }}" class="post-tag">{{ .LinkTitle }}</a>
         {{ end }}
       </div>
 
@@ -19,13 +19,12 @@
 
       <div class="post-meta">
         <div class="post-meta__left">
-          <a href="/about/" class="post-author-image">
-            <img class="lazy" data-src="{{ .Site.Params.author.author__avatar }}" alt="{{ .Site.Params.author.author__name }}">
+          <a href="{{ "/about/" | relURL }}" class="post-author-image">
+            <img class="lazy" data-src="{{ .Site.Params.author.author__avatar | absURL }}" alt="{{ .Site.Params.author.author__name }}">
           </a>
           <div class="post-meta__bottom">
-            <a class="post-author-name" href="/about/">{{ .Site.Params.author.author__name }}</a>
-            <span class="post-date"><time datetime="{{ .Date.Format " 2006-01-02T15:04:05Z07:00" }}">{{ .Date.Format "2 Jan, 2006"
-              }}</time> – {{ .ReadingTime }} min read</span>
+            <a class="post-author-name" href="{{ "/about/" | relURL }}">{{ .Site.Params.author.author__name }}</a>
+            <span class="post-date"><time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">{{ .Date.Format "2 Jan, 2006" }}</time> – {{ .ReadingTime }} min read</span>
           </div>
         </div>
         <div class="post-meta__right">
@@ -36,7 +35,7 @@
 
     {{ if .Params.image }}
     <div class="post-image">
-      <img class="lazy" data-src="{{ .Params.Image | absURL }}" alt="{{ .Title }}">
+      <img class="lazy" data-src="{{ .Params.image | absURL }}" alt="{{ .Title }}">
     </div>
     {{ if .Params.image_caption }}
       <div class="post-image-caption">{{ .Params.image_caption | markdownify }}</div>
@@ -76,7 +75,7 @@
 
     {{ if .Params.image }}
     <div class="page-image">
-      <img class="lazy" data-src="{{ .Params.Image | absURL }}" alt="{{ .Title }}">
+      <img class="lazy" data-src="{{ .Params.image | absURL }}" alt="{{ .Title }}">
     </div>
     {{ if .Params.image_caption }}
     <div class="page-image-caption">{{ .Params.image_caption | markdownify }}</div>
