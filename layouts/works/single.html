@@ -76,7 +76,7 @@
             {{ if .PrevInSection.Params.Category }}
             <div class="work__category">{{ .PrevInSection.Params.Category }}</div>
             {{ end }}
-            <h3 class="work__title"><a href="{{ .PrevInSection.Permalink | absURL}}}">{{ .PrevInSection.Title }}</a></h3>
+            <h3 class="work__title"><a href="{{ .PrevInSection.Permalink | absURL}}">{{ .PrevInSection.Title }}</a></h3>
             {{ if .PrevInSection.Description }}
             <p class="work__description">{{ .PrevInSection.Description }}</p>
             {{ end }}
