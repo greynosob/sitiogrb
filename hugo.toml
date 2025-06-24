@@ -55,7 +55,7 @@ googleAnalytics = "" # Add your identifier. For example UA-99631805-1.
   [params.author]
     author__name = "Gabriela Reynoso"
     author__bio = "Senior Software Engineer. "
-    author__avatar = "images/mypicture.jpg"
+    author__avatar = "images/foto-yo.png"
 
   # Social Links
   [[params.social]]
