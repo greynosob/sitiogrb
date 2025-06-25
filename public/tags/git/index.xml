@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Git on Gabriela Reynoso - Portfolio</title>
+    <link>https://greynosob.github.io/sitiogrb/tags/git/</link>
+    <description>Recent content in Git on Gabriela Reynoso - Portfolio</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 25 Jun 2025 15:01:35 +0300</lastBuildDate>
+    <atom:link href="https://greynosob.github.io/sitiogrb/tags/git/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Build a Professional Website in 5 Days</title>
+      <link>https://greynosob.github.io/sitiogrb/posts/portfolio-webpage/</link>
+      <pubDate>Wed, 25 Jun 2025 15:01:35 +0300</pubDate>
+      <guid>https://greynosob.github.io/sitiogrb/posts/portfolio-webpage/</guid>
+      <description>&lt;h1 id=&#34;how-to-build-a-professional-website-in-5-days-&#34;&gt;How to Build a Professional Website in 5 Days 🚀&lt;/h1&gt;&#xA;&lt;p&gt;This is how my site looks: &lt;a href=&#34;https://greynosob.github.io/sitiogrb/&#34;&gt;https://greynosob.github.io/sitiogrb/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;In many job applications, they ask to include a link to your personal website. Because of this, I decided to embark on a journey to create a site where I could showcase my professional background and skills. 💼&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;day-1-choosing-the-right-tool-and-template-&#34;&gt;Day 1: Choosing the Right Tool and Template 🧭&lt;/h3&gt;&#xA;&lt;p&gt;At first, I tried using WordPress, but it was so frustrating and complicated 😤 that I sought advice and was introduced to &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
