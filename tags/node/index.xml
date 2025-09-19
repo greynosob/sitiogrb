@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Node on Gabriela Reynoso - Portfolio</title>
+    <link>https://greynosob.github.io/sitiogrb/tags/node/</link>
+    <description>Recent content in Node on Gabriela Reynoso - Portfolio</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 13 Jun 2025 15:01:35 +0300</lastBuildDate>
+    <atom:link href="https://greynosob.github.io/sitiogrb/tags/node/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PHP &#43; Postgress &#43; Node &#43; Docker&#39;</title>
+      <link>https://greynosob.github.io/sitiogrb/posts/php-postgress-docker/</link>
+      <pubDate>Fri, 13 Jun 2025 15:01:35 +0300</pubDate>
+      <guid>https://greynosob.github.io/sitiogrb/posts/php-postgress-docker/</guid>
+      <description>&lt;h1 id=&#34;--&#34;&gt;💻 &lt;em&gt;&amp;ldquo;PHP + Postgress + Node + Docker&amp;rdquo;&lt;/em&gt; ⌨️&lt;/h1&gt;&#xA;&lt;p&gt;On this project I created a website with a REST API using PHP for the backend and Node for the frontend 🖥️, connected to a PostgreSQL database. Everything had to be containerized with Docker and configured in a single YAML file.&lt;/p&gt;&#xA;&lt;p&gt;I must say that the last time I used PHP was in college, and that was over 10 years ago 😅. I had never used PostgreSQL before, but at least I was familiar with Node. As for Docker, I think I had used it a couple of times out of curiosity.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

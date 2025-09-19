@@ -16,13 +16,6 @@
       <description>&lt;h1 id=&#34;reflections-and-learnings-in-my-professional-journey-&#34;&gt;Reflections and Learnings in My Professional Journey ✨&lt;/h1&gt;&#xA;&lt;p&gt;For nearly &lt;strong&gt;12 years&lt;/strong&gt; 🗓️, I had the privilege of working at a bank 🏦 where I developed fundamental skills that shaped my professional path. There, I learned the importance of &lt;strong&gt;teamwork&lt;/strong&gt; 🤝 and the ability to &lt;strong&gt;adapt to new project management methodologies&lt;/strong&gt; 🔄. Every day brought new challenges 💪, allowing me to hone my skills in &lt;strong&gt;team management&lt;/strong&gt; 👥 and &lt;strong&gt;task prioritization&lt;/strong&gt; ✅.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>PHP &#43; Postgress &#43; Node &#43; Docker&#39;</title>
-      <link>https://greynosob.github.io/sitiogrb/posts/php-postgress-docker/</link>
-      <pubDate>Fri, 13 Jun 2025 15:01:35 +0300</pubDate>
-      <guid>https://greynosob.github.io/sitiogrb/posts/php-postgress-docker/</guid>
-      <description>&lt;h1 id=&#34;--&#34;&gt;💻 &lt;em&gt;&amp;ldquo;PHP + Postgress + Node + Docker&amp;rdquo;&lt;/em&gt; ⌨️&lt;/h1&gt;&#xA;&lt;p&gt;On this project I created a website with a REST API using PHP for the backend and Node for the frontend 🖥️, connected to a PostgreSQL database. Everything had to be containerized with Docker and configured in a single YAML file.&lt;/p&gt;&#xA;&lt;p&gt;I must say that the last time I used PHP was in college, and that was over 10 years ago 😅. I had never used PostgreSQL before, but at least I was familiar with Node. As for Docker, I think I had used it a couple of times out of curiosity.&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>You Shall Not Pass &#39;Professional Data Engineer&#39;</title>
       <link>https://greynosob.github.io/sitiogrb/posts/shall-not-pass-2025/</link>
       <pubDate>Fri, 13 Jun 2025 15:01:35 +0300</pubDate>
