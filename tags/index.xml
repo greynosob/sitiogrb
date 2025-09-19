@@ -6,8 +6,43 @@
     <description>Recent content in Tags on Gabriela Reynoso - Portfolio</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Jun 2025 15:01:35 +0300</lastBuildDate>
+    <lastBuildDate>Fri, 29 Aug 2025 15:01:35 +0300</lastBuildDate>
     <atom:link href="https://greynosob.github.io/sitiogrb/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Docker</title>
+      <link>https://greynosob.github.io/sitiogrb/tags/docker/</link>
+      <pubDate>Fri, 29 Aug 2025 15:01:35 +0300</pubDate>
+      <guid>https://greynosob.github.io/sitiogrb/tags/docker/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>IA</title>
+      <link>https://greynosob.github.io/sitiogrb/tags/ia/</link>
+      <pubDate>Fri, 29 Aug 2025 15:01:35 +0300</pubDate>
+      <guid>https://greynosob.github.io/sitiogrb/tags/ia/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Node</title>
+      <link>https://greynosob.github.io/sitiogrb/tags/node/</link>
+      <pubDate>Fri, 29 Aug 2025 15:01:35 +0300</pubDate>
+      <guid>https://greynosob.github.io/sitiogrb/tags/node/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Php</title>
+      <link>https://greynosob.github.io/sitiogrb/tags/php/</link>
+      <pubDate>Fri, 29 Aug 2025 15:01:35 +0300</pubDate>
+      <guid>https://greynosob.github.io/sitiogrb/tags/php/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Postgress</title>
+      <link>https://greynosob.github.io/sitiogrb/tags/postgress/</link>
+      <pubDate>Fri, 29 Aug 2025 15:01:35 +0300</pubDate>
+      <guid>https://greynosob.github.io/sitiogrb/tags/postgress/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Git</title>
       <link>https://greynosob.github.io/sitiogrb/tags/git/</link>
@@ -27,13 +62,6 @@
       <link>https://greynosob.github.io/sitiogrb/tags/hugo/</link>
       <pubDate>Wed, 25 Jun 2025 15:01:35 +0300</pubDate>
       <guid>https://greynosob.github.io/sitiogrb/tags/hugo/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>IA</title>
-      <link>https://greynosob.github.io/sitiogrb/tags/ia/</link>
-      <pubDate>Wed, 25 Jun 2025 15:01:35 +0300</pubDate>
-      <guid>https://greynosob.github.io/sitiogrb/tags/ia/</guid>
       <description></description>
     </item>
     <item>
@@ -72,38 +100,10 @@
       <description></description>
     </item>
     <item>
-      <title>Docker</title>
-      <link>https://greynosob.github.io/sitiogrb/tags/docker/</link>
-      <pubDate>Fri, 13 Jun 2025 15:01:35 +0300</pubDate>
-      <guid>https://greynosob.github.io/sitiogrb/tags/docker/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Google</title>
       <link>https://greynosob.github.io/sitiogrb/tags/google/</link>
       <pubDate>Fri, 13 Jun 2025 15:01:35 +0300</pubDate>
       <guid>https://greynosob.github.io/sitiogrb/tags/google/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Node</title>
-      <link>https://greynosob.github.io/sitiogrb/tags/node/</link>
-      <pubDate>Fri, 13 Jun 2025 15:01:35 +0300</pubDate>
-      <guid>https://greynosob.github.io/sitiogrb/tags/node/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Php</title>
-      <link>https://greynosob.github.io/sitiogrb/tags/php/</link>
-      <pubDate>Fri, 13 Jun 2025 15:01:35 +0300</pubDate>
-      <guid>https://greynosob.github.io/sitiogrb/tags/php/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Postgress</title>
-      <link>https://greynosob.github.io/sitiogrb/tags/postgress/</link>
-      <pubDate>Fri, 13 Jun 2025 15:01:35 +0300</pubDate>
-      <guid>https://greynosob.github.io/sitiogrb/tags/postgress/</guid>
       <description></description>
     </item>
   </channel>
