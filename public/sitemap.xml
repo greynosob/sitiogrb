@@ -3,10 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://greynosob.github.io/sitiogrb/posts/</loc>
-    <lastmod>2025-06-25T15:01:35+03:00</lastmod>
+    <lastmod>2025-08-29T15:01:35+03:00</lastmod>
+  </url><url>
+    <loc>https://greynosob.github.io/sitiogrb/tags/docker/</loc>
+    <lastmod>2025-08-29T15:01:35+03:00</lastmod>
   </url><url>
     <loc>https://greynosob.github.io/sitiogrb/</loc>
-    <lastmod>2025-06-25T15:01:35+03:00</lastmod>
+    <lastmod>2025-08-29T15:01:35+03:00</lastmod>
+  </url><url>
+    <loc>https://greynosob.github.io/sitiogrb/tags/ia/</loc>
+    <lastmod>2025-08-29T15:01:35+03:00</lastmod>
+  </url><url>
+    <loc>https://greynosob.github.io/sitiogrb/tags/node/</loc>
+    <lastmod>2025-08-29T15:01:35+03:00</lastmod>
+  </url><url>
+    <loc>https://greynosob.github.io/sitiogrb/tags/php/</loc>
+    <lastmod>2025-08-29T15:01:35+03:00</lastmod>
+  </url><url>
+    <loc>https://greynosob.github.io/sitiogrb/posts/php-postgress-docker/</loc>
+    <lastmod>2025-08-29T15:01:35+03:00</lastmod>
+  </url><url>
+    <loc>https://greynosob.github.io/sitiogrb/tags/postgress/</loc>
+    <lastmod>2025-08-29T15:01:35+03:00</lastmod>
+  </url><url>
+    <loc>https://greynosob.github.io/sitiogrb/tags/</loc>
+    <lastmod>2025-08-29T15:01:35+03:00</lastmod>
   </url><url>
     <loc>https://greynosob.github.io/sitiogrb/tags/git/</loc>
     <lastmod>2025-06-25T15:01:35+03:00</lastmod>
@@ -18,12 +39,6 @@
     <lastmod>2025-06-25T15:01:35+03:00</lastmod>
   </url><url>
     <loc>https://greynosob.github.io/sitiogrb/tags/hugo/</loc>
-    <lastmod>2025-06-25T15:01:35+03:00</lastmod>
-  </url><url>
-    <loc>https://greynosob.github.io/sitiogrb/tags/ia/</loc>
-    <lastmod>2025-06-25T15:01:35+03:00</lastmod>
-  </url><url>
-    <loc>https://greynosob.github.io/sitiogrb/tags/</loc>
     <lastmod>2025-06-25T15:01:35+03:00</lastmod>
   </url><url>
     <loc>https://greynosob.github.io/sitiogrb/tags/web/</loc>
@@ -44,22 +59,7 @@
     <loc>https://greynosob.github.io/sitiogrb/tags/bigdata/</loc>
     <lastmod>2025-06-13T15:01:35+03:00</lastmod>
   </url><url>
-    <loc>https://greynosob.github.io/sitiogrb/tags/docker/</loc>
-    <lastmod>2025-06-13T15:01:35+03:00</lastmod>
-  </url><url>
     <loc>https://greynosob.github.io/sitiogrb/tags/google/</loc>
-    <lastmod>2025-06-13T15:01:35+03:00</lastmod>
-  </url><url>
-    <loc>https://greynosob.github.io/sitiogrb/tags/node/</loc>
-    <lastmod>2025-06-13T15:01:35+03:00</lastmod>
-  </url><url>
-    <loc>https://greynosob.github.io/sitiogrb/tags/php/</loc>
-    <lastmod>2025-06-13T15:01:35+03:00</lastmod>
-  </url><url>
-    <loc>https://greynosob.github.io/sitiogrb/posts/php-postgress-docker/</loc>
-    <lastmod>2025-06-13T15:01:35+03:00</lastmod>
-  </url><url>
-    <loc>https://greynosob.github.io/sitiogrb/tags/postgress/</loc>
     <lastmod>2025-06-13T15:01:35+03:00</lastmod>
   </url><url>
     <loc>https://greynosob.github.io/sitiogrb/posts/shall-not-pass-2025/</loc>

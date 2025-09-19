@@ -2,7 +2,7 @@
 title: PHP + Postgress + Node + Docker'
 description: I completed a project requiring the development of a PHP-based REST API with a Node frontend and PostgreSQL database, utilizing AI assistance and Docker for efficiency, demonstrating that general concept understanding outweighs language-specific experience.
 
-date: 2025-06-13 15:01:35 +0300
+date: 2025-08-29 15:01:35 +0300
 image: ''
 image_caption: ''
 tags: [php, Node, Postgress, IA, Docker]
