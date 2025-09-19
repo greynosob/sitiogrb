@@ -5,7 +5,7 @@ description: I completed a project requiring the development of a PHP-based REST
 date: 2025-06-13 15:01:35 +0300
 image: ''
 image_caption: ''
-tags: [google, BigData, training]
+tags: [php, Node, Postgress, IA, Docker]
 ---
 # 💻 *"PHP + Postgress + Node + Docker"* ⌨️
 On this project I created a website with a REST API using PHP for the backend and Node for the frontend 🖥️, connected to a PostgreSQL database. Everything had to be containerized with Docker and configured in a single YAML file.
